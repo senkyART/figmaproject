@@ -1,4 +1,4 @@
-Ehya – Instagram Analytics for Business Growth
+#Ehya – Instagram Analytics for Business Growth
 We help you grow your business faster.
 
 Ehya is the Instagram analytics platform trusted by teams to stay focused on business goals, track engagement, and automate their content strategy. Whether you're a marketer, brand, or agency, Ehya gives you the insights and tools you need to scale efficiently.
