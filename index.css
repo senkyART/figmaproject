@@ -495,7 +495,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
-@media screen and (max-width: 425px) {
+@media (max-width: 425px) {
     body {
         
         width: 79rem;
@@ -742,6 +742,28 @@ body {
     }
 }
 
-@media (max-width: 768px){
-
-  }
+@media (max-width: 768px) and (min-width: 425px){
+    body{
+        width: 100%;
+    }
+    .header {
+        gap: 1px;
+        padding: 23px 19px;
+        width: 67rem;
+    }
+    .b {
+        width: 70rem;
+        padding: 83px 0;
+    }
+    .pc img {
+        left: 24px;
+        width: 83vw;
+        max-width: 672px;
+    }
+    .pic img {
+        margin-top: 79px;
+    }
+    .under { 
+        width: 70rem;
+    }
+}
