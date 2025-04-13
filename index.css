@@ -501,8 +501,7 @@ body {
         width: 79rem;
     }
     .header {
-       
-        gap: 1px;
+       gap: 1px;
         padding: 40px 19px;
         width: 97%;
     }
@@ -555,7 +554,11 @@ body {
         height: 46px;
         width: 100%;
     }
+    .User{
+         display:block;
+    }
     .User ion-icon {
+       
         color: #034D82;
         font-size: 56px;
     }
@@ -572,8 +575,6 @@ body {
         font-size: 20px;
     }
     .tx1 {
-        
-        font-family: cursive;
         font-size: 50px;
         display: flex;
         justify-content: center;
